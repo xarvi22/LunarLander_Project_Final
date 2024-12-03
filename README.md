@@ -337,9 +337,13 @@ D. Best models:
 
 
 ## Acknowledgements
+
 - **Course:** GE2340 AI: Past, Present and Future
 - **Frameworks and Libraries:** Gymnasium, Stable Baselines3, TensorBoard, Pandas
-- **Inspirations:** OpenAI's PPO research, various RL tutorials, and academic papers on reinforcement learning.
+- **Inspirations:**
+  - [Python Reinforcement Learning using Stable Baselines: Mario PPO by Clarity Coders](https://www.youtube.com/watch?v=PxoG0A2QoFs)
+  - [Reinforcement Learning in 3 Hours | Full Course using Python by Nicholas Renotte](https://www.youtube.com/watch?v=Mut_u40Sqz4&t=2198s)
+  - Various RL tutorials that are not mentioned or forgotten.
 
 ## FAQ
 
