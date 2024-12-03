@@ -318,7 +318,7 @@ Ensure you have the following frameworks and libraries installed:
 
 A. Policy function vs Value function:
 - **Architecture:** 
-  - **Layers:** `Policy function = [128, 128] and ]Value function = [64, 64]` or `Policy function = [64, 64] and ]Value function = [128, 128]`
+  - **Layers:** `Policy function = [128, 128] and Value function = [64, 64]` or `Policy function = [64, 64] and Value function = [128, 128]`
 
 B. Increased neuron layers
 - **Architecture:**
