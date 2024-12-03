@@ -1,5 +1,8 @@
 # Implementation and Analysis of PPO Algorithm for a Lunar Landing RL Game
 
+![IMG_5349](https://github.com/user-attachments/assets/b47be850-2d21-4c06-a0a6-2f062325da03)
+Five episodes of the best model 2
+
 ## Authors
 - **Adam Gear** (responsible for the essay and data analysis)
 - **Maksat Omorov** (responsible for the github and the coding part of the project)
