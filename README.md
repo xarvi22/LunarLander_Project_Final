@@ -1,6 +1,7 @@
 # Implementation and Analysis of PPO Algorithm for a Lunar Landing RL Game
 
-![IMG_5349](https://github.com/user-attachments/assets/b47be850-2d21-4c06-a0a6-2f062325da03)
+[![IMG_5349](https://github.com/user-attachments/assets/b47be850-2d21-4c06-a0a6-2f062325da03)](https://github.com/user-attachments/assets/3da886ac-5797-4ec2-8287-4683ea35d794
+)
 Five episodes of the best model 2
 
 ## Authors
