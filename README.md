@@ -1,9 +1,9 @@
 # Implementation and Analysis of PPO Algorithm for a Lunar Landing RL Game
 
 ## Authors
-- **Adam Gear**
-- **Maksat Omorov**
-- **Bernar Yerken**
+- **Adam Gear** (responsible for the essay and data analysis)
+- **Maksat Omorov** (responsible for the github and the coding part of the project)
+- **Bernar Yerken** (responsible for the poster designing and video editing)
 
 ## Abstract
 This study focuses on implementing and analyzing the **Proximal Policy Optimization-Clip (PPO-Clip)** algorithm in the Lunar Lander environment using the **Gymnasium** API. Developed for the GE2340 AI: Past, Present and Future course, the project addresses three primary objectives:
