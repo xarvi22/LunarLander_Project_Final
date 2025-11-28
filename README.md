@@ -80,14 +80,14 @@ Reinforcement learning differs from supervised learning in that RL training data
 ### PPO-Clip Algorithm
 - **Developed by OpenAI in 2017** for Atari games and later adapted for applications such as ChatGPT.
 - **Key Components:**
-  - **Advantage Function (\( A_t \ )):** Measures the difference between actual rewards and expected rewards, guiding learning.
-  - **Probability Ratio (\( r(\theta) \ )):** Evaluates the likelihood of an action under the current and previous policies, ensuring stability.
+  - **Advantage Function $(\( A_t \ ))$:** Measures the difference between actual rewards and expected rewards, guiding learning.
+  - **Probability Ratio $(\( r(\theta) \ ))$:** Evaluates the likelihood of an action under the current and previous policies, ensuring stability.
 
 ### Objective Function
 The PPO-Clip objective function ensures updates do not deviate significantly from previous policies:
-\[
+$\[
 E_t \left[ \min \left( r_t(\theta) A_t, \text{clip}(r_t(\theta), 1 - \epsilon, 1 + \epsilon) A_t \right) \right]
-\]
+\]$
 
 ### Final Loss Function
 Combines the objective function with terms for value function approximation and entropy regularization.
@@ -118,7 +118,7 @@ Four experiments were conducted to analyze the PPO-Clip algorithm by tuning its 
 
 4. **Architectural Modifications:**
    - Adjustments to the number of neurons, layers, and activation functions (from tanh to ReLU) were explored.
-   - Variations included different layer configurations such as 2-layered 128/64, 2-layered 64/128, 2-layered, and 3-layered architectures. ** More details about the layers and configurations in the main.ipynb file **
+   - Variations included different layer configurations such as 2-layered 128/64, 2-layered 64/128, 2-layered, and 3-layered architectures. **More details about the layers and configurations in the main.ipynb file**
 
 ## Evaluation
 ### A. Overview of Results
@@ -379,3 +379,4 @@ For further inquiries or support, please contact the authors:
 **Repository Structure:**
 - `data/logs`: Contains logs for the model's training.
 - `models`: Stores trained models.
+
